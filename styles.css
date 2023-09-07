@@ -97,3 +97,7 @@ footer{
 .linsty{
 	color:#9f9f9f;
 }
+.warnsty {
+	color: #c40000;
+	text-decoration: underline;
+}
