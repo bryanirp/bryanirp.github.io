@@ -83,11 +83,13 @@ footer{
 }
 .social ul li .icon-unity{background: #2b2b2b}
 .social ul li .icon-youtube{background: #FF0032}
-.social ul li .icon-instagram{background: #FF005D}
+.social ul li .icon-instagram{background: #eee}
 .social ul li .icon-google{background: #E83216}
+.social ul li .icon-patreon{background: #000}
+.social ul li .icon-facebook{background: #fff}
 .social ul li a:hover{
 	padding: 10px 30px;
-	background: #0f0f0f;
+	background: #0e0e0e;
 }
 .downsty{
 	color: #3131E6;
