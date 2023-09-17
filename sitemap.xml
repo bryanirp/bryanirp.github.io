@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"">
+<url>
+  <loc>https://bryanirp.github.io/</loc>
+  <lastmod>2023-09-17</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bryanirp.github.io/index.html</loc>
+  <lastmod>2023-09-17</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+	<loc>https://bryanirp.github.io/blog.html</loc>
+	<lastmod>2023-09-17</lastmod>
+	<priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bryanirp.github.io/download.html</loc>
+  <lastmod>2023-09-17</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bryanirp.github.io/ABKaspo/index.html</loc>
+  <lastmod>2023-09--17</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bryanirp.github.io/ABKaspo/client-support.html</loc>
+  <lastmod>2023-09--17</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bryanirp.github.io/ABKaspo/download.html</loc>
+  <lastmod>2023-09--17</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
